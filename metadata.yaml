@@ -1,0 +1,40 @@
+_repo: Famous-composers-and-their-works-Vol-3-of-4_72822
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Klauser, Karl
+    birthdate: 1823
+    deathdate: 1905
+    gutenberg_agent_id: '48130'
+    url: http://www.gutenberg.org/2009/agents/48130
+  - agent_name: Paine, John Knowles
+    alias: Dolores, Dr.
+    birthdate: 1839
+    deathdate: 1906
+    gutenberg_agent_id: '48129'
+    url: http://www.gutenberg.org/2009/agents/48129
+  - agent_name: Thomas, Theodore Thomas
+    gutenberg_agent_id: '56822'
+    url: http://www.gutenberg.org/2009/agents/56822
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72822'
+language: en
+production_note: Richard Tonsing, Juliet Sutherland, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Famous composers and their works, Vol. 3 (of 4)
+url: http://www.gutenberg.org/ebooks/72822
